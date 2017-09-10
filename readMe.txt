@@ -1,0 +1,1 @@
+Go to the config folder. Your will get a config.php file.Now you will have put your configuration in that config.php file. Enjoy!
